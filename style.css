@@ -110,7 +110,7 @@ button {
     /* /* padding-left: 10rem; */
     /* padding-right: 10rem; */
     padding-top: 100px;
-    padding-bottom: 100px; */
+    padding-bottom: 100px;
 }
 
 .blockquote-and-figcaption {
@@ -134,3 +134,308 @@ figcaption {
     font-weight: bold;
     font-size: 24px;
 }
+
+.container-four {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.action-and-button-container {
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 1200px;
+    justify-content: space-around;
+    }
+
+h4 {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin: 0;
+}
+
+.action-and-description-container > p {
+    color: #E5E7EB;
+    margin: 0;
+
+}
+
+.action-and-button-container > button {
+    border-color: #F9FAF8;
+    border-style: solid;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 12px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
