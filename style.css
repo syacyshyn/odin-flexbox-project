@@ -14,9 +14,9 @@ body {
 
 .header {
     display: flex;
-    background-color: #1F2937;
+    background-color: #c54a84;
     justify-content: center;
-    gap: 22rem;
+    gap: 24rem;
     align-items: center;
     padding: 15px;
 }
@@ -33,11 +33,11 @@ ul {
 
 a {
     color: white;
-    padding: 10,px;
+    padding: 10px;
 }
 
 .container-one {
-    background-color: #1F2937;
+    background-color: #1497c5;
     display: flex;
     justify-content: center;
     gap: 40px;
@@ -57,9 +57,9 @@ a {
 }
 
 button {
-    background-color: #3882F6;
+    background-color: white;
     border-radius: 5px;
-    color: white;
+    color: #1497c5;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
@@ -104,7 +104,7 @@ button {
     height: auto;
     max-width: 175px;
     max-height: 175px;
-    border-color: #3882F6;
+    border-color: #1497c5;
     border-style: solid;
     border-radius: 10px;
 
@@ -114,7 +114,7 @@ button {
 }
 
 .container-three {
-    background-color: #E5E7EB;
+    background-color: #ffebf9;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -154,7 +154,7 @@ figcaption {
 }
 
 .action-and-button-container {
-    background-color: #3882F6;
+    background-color: #05a1d3;
     border-radius: 10px;
     display: flex;
     padding-top: 60px;
@@ -162,6 +162,10 @@ figcaption {
     width: 1200px;
     justify-content: space-around;
     }
+
+h3 {
+    color: #c54a84;
+}
 
 h4 {
     color: #F9FAF8;
@@ -187,7 +191,7 @@ h4 {
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #c54a84;
     color: #E5E7EB;
     text-align: center;
     padding: 30px;
